@@ -51,7 +51,7 @@ export default function Footer() {
           <p>
             This project is <a href="https://github.com/bridgpal/shopify-next-netlify">open source on GitHub</a>
             , hosted with <a href="https://www.netlify.com/">Netlify</a>, built
-            with Next.js and made with 💚 by Anil Bridgpal (
+            with Next.js and made with 💚 by Anil Bridgpal!!!! (
             <a href="https://twitter.com/bridgpal">@bridgpal</a>)
           </p>
         </div>
